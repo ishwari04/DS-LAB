@@ -3,7 +3,7 @@ monster <- c(TRUE, TRUE, TRUE, FALSE, TRUE, TRUE, TRUE, TRUE, TRUE, TRUE)
 print(monster)
 
 # b) Create the character vector yugioh vector. Check the type of yugioh.
-yugioh <- c("kaivalya", "sawant", "sanjay", "hello", "hi")
+yugioh <- c("ishwari", "kritika", "sanjay", "hello", "hi")
 print(yugioh)
 typeof(yugioh)
 
@@ -35,3 +35,4 @@ print(yugioh_factor)
 # Convert factor back to character
 yugioh_back <- as.character(yugioh_factor)
 print(yugioh_back)
+
